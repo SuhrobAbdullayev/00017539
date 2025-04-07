@@ -1,0 +1,14 @@
+{
+  "name": "book-review",
+  "version": "1.0.0",
+  "description": "book review app by 00017539",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "mongoose": "^8.13.2",
+    "pug": "^3.0.2"
+  }
+}

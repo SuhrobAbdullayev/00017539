@@ -1,0 +1,21 @@
+doctype html
+html
+  head
+    title Add a New Book
+    link(rel='stylesheet', href='/styles/style.css')
+  body
+    header
+      h1 Add a New Book
+    main
+      h2 Write about the book here:
+      form(action="/books", method="POST")
+        label(for="title") Title:
+        input(type="text", name="title", required)
+        br
+        label(for="author") Author:
+        input(type="text", name="author", required)
+        br
+        label(for="genre") Genre:
+        input(type="text", name="genre", required)
+        br
+        button(type="submit") Add
