@@ -9,6 +9,9 @@ Follow these steps to run the app locally:
 3. Start the application: node app.js
 4. Open your browser and go to `http://localhost:3000` to access the app.
 
+Link to GitHub repository: `https://github.com/SuhrobAbdullayev/00017539.git`
+Link to hosted website: `https://zero0017539.onrender.com`
+
 Project structure:
 
 00017539/
@@ -35,4 +38,3 @@ Project structure:
 ├── package.json            Project dependencies and scripts
 ├── README.md               Project documentation
 
-Link to GitHub repository: `https://github.com/SuhrobAbdullayev/00017539.git`
